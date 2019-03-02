@@ -1,0 +1,3 @@
+model_checkpoint_path: "traffic_classifier_p"
+all_model_checkpoint_paths: "..\\traffic_classifier_p"
+all_model_checkpoint_paths: "traffic_classifier_p"
